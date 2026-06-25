@@ -4,6 +4,7 @@ markdown
 ## 📌 Description
 The **Student Performance Dataset** is designed to examine the factors influencing academic student performance.  
 It contains **10,000 student records**, with each record including information about various predictors and a performance index.
+La base de datos esata [aqui](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression)
 
 ---
 
